@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heroku Setup
 
 - 08/30/2021 removed .htaccess and updated Procfile to use public_html as docroot
@@ -7,3 +8,8 @@
 - partials will be templates/partial pages that will NOT be accessed directly (still can reference via code)
 - lib will be custom functions/libraries/etc that will NOT be accessed directly (still can be referenced via code)
 - All work will be subfolders inside public_html (for the most part), lib will contain reusable functionality, partials will contain reusable templates, nothing else should change.
+=======
+Tejkumar Patel
+IT202-001
+I'm majoring in Computer Science, and minor is IT.
+>>>>>>> 15c45068c9d9d74547dfd37023661c378b49ef79
