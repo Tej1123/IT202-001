@@ -8,10 +8,9 @@ function processArray($arr) {
     echo "<br>Processing Array:<br><pre>" . var_export($arr, true) . "</pre>";
     echo "<br>Odds output:<br>";
     //TODO add logic here to echo out only odd values
-    for($i=0;$i<count($arr);$i++)
-    {
-        if($arr[$i]%2==1)
-        echo "$arr[$i] is odd number. <br>";
+    for($i=0;$i<count($arr);$i++){
+        if($arr[$i]%2!=0)
+        echo $arr[$i]." ";
      }
 
 }
