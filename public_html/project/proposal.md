@@ -4,7 +4,6 @@
 ## Project Board Link: 
 ## Website Link: (Heroku Prod of Project folder)
 ## Your Name: Tejkumar Patel
-
 <!--
 ### Line item / Feature template (use this for each bullet point)
 #### Don't delete this
