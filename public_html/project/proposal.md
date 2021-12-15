@@ -4,7 +4,6 @@
 ## Project Board Link: 
 ## Website Link: (Heroku Prod of Project folder)
 ## Your Name: Tejkumar Patel
-
 <!--
 ### Line item / Feature template (use this for each bullet point)
 #### Don't delete this
@@ -150,4 +149,4 @@
   8. Merge the updated dev branch into your production branch via a pull request
   9. Close any related issues that didn't auto close
     - You can edit the dropdown on the issue or drag/drop it to the proper column on the project board
-    - 
+  - 
