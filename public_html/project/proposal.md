@@ -1,8 +1,8 @@
 # Project Name: Simple Shop
 ## Project Summary: This project will create a simple e-commerce site for users.
-## Github Link: (Prod Branch of Project Folder)
+## Github Link: https://github.com/Tej1123/IT202-001/edit/tp342-prod/public_html/project
 ## Project Board Link: 
-## Website Link: (Heroku Prod of Project folder)
+## Website Link: https://tp342-prod.herokuapp.com/project/login.php
 ## Your Name: Tejkumar Patel
 <!--
 ### Line item / Feature template (use this for each bullet point)
@@ -44,7 +44,7 @@
 
   - [x] \(mm/dd/yyyy of completion) User will be able to logout
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -54,7 +54,7 @@
 
   - [x] \(mm/dd/yyyy of completion) Basic security rules implemented
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -64,7 +64,7 @@
 
   - [x] \(mm/dd/yyyy of completion) Basic Roles implemented
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -74,7 +74,7 @@
 
   - [x] \(mm/dd/yyyy of completion) Site should have basic styles/theme applied; everything should be styled
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -84,7 +84,7 @@
 
   - [x] \(mm/dd/yyyy of completion) Any output messages/errors should be “user friendly”
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -94,7 +94,7 @@
 
   - [x] \(mm/dd/yyyy of completion) User will be able to see their profile
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
@@ -104,7 +104,7 @@
 
   - [x] \(mm/dd/yyyy of completion) User will be able to edit their profile
     -  List of Evidence of Feature Completion
-      - Status: Pending (Completed, Partially working, Incomplete, Pending)
+      - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
