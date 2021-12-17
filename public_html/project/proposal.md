@@ -111,7 +111,7 @@
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
-
+__________________________________________________________________________________________________________________________________________
 - Milestone 2
   - [x] \(11/09/2021) User will be able to register a new account
     -  List of Evidence of Feature Completion
@@ -202,7 +202,7 @@
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
-         
+__________________________________________________________________________________________________________________________________________       
 - Milestone 3
   - [x] \(11/09/2021) User will be able to register a new account
     -  List of Evidence of Feature Completion
@@ -293,7 +293,7 @@
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
-
+__________________________________________________________________________________________________________________________________________
 - Milestone 4
   - [x] \(11/09/2021) User will be able to register a new account
     -  List of Evidence of Feature Completion
