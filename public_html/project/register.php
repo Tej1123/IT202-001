@@ -1,10 +1,62 @@
 <?php
 require(__DIR__ . "/../../partials/nav.php");
 ?>
+<style>
+     .register-page{
+        width: 360px;
+        padding: 10% 0 0;
+        margin: auto;
+    }
+    .Form{
+    
+        position: relative;
+        z-index: 1;
+        background: rgb(75,74,74);
+        max-width: 360px;
+        margin: 0 auto 100px;
+        padding: 45px;
+        text-align: center;
+    }
+    input{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        outline: 1;
+        background: #f2f2f2;
+        width: 100%;
+        border: 0;
+        margin: 0 0 15px;
+        padding: 8px;
+        box-sizing: border-box;
+        font-size: 14px;
+    }
+    label{
+        display: inline-block;
+        text-align: right;
+        color: white;
+    }
+    button{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-transform: uppercase;
+        outline: 0;
+        background: white;
+        width: 100%;
+        border: 0;
+        padding: 10px;
+        color: black;
+        font-size: 20px;
+    }
+    button:hover{
+        background: red;
+    }
+</style>
+<div class="register-page">
 <form onsubmit="return validate(this)" method="POST">
     <div>
         <label for="email">Email</label>
         <input type="email" name="email" required />
+    </div>
+    <div>
+        <label for="username">Username</label>
+        <input type="username" name="username" required/>
     </div>
     <div>
         <label for="pw">Password</label>
@@ -14,8 +66,9 @@ require(__DIR__ . "/../../partials/nav.php");
         <label for="confirm">Confirm</label>
         <input type="password" name="confirm" required minlength="8" />
     </div>
-    <input type="submit" value="Register" />
+    <button type="submit" value="Register" />Register</button>
 </form>
+</div>
 <script>
     function validate(form) {
         //TODO 1: implement JavaScript validation
@@ -63,7 +116,7 @@ if (isset($_POST["email"]) && isset($_POST["password"]) && isset($_POST["confirm
     if (
         strlen($password) > 0 && $password !== $confirm
     ) {
-        echo "Passwords must match";
+        echo 'Password must match';
         $hasError = true;
     }
     if (!$hasError) {

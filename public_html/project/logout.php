@@ -2,4 +2,7 @@
 session_start();
 session_unset();
 session_destroy();
-header("Location: login.php");
+echo '<script> alert("You have successfully logged out!"); header("Location: login.php") </script>';
+?>
+
+
