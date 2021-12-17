@@ -22,6 +22,7 @@
 ### Proposal Checklist and Evidence
 
 - Milestone 1
+
   - [x] \(11/09/2021) User will be able to register a new account
     -  List of Evidence of Feature Completion
       - Status: Completed
@@ -29,8 +30,15 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 
+<img width="952" alt="Screen Shot 2021-12-16 at 3 51 06 PM" src="https://user-images.githubusercontent.com/89927369/146447204-1558b929-0021-4cd1-8beb-aa4ce70cb500.png">
+          - Screenshot #1 Username, email, password, confirm password
+        - Screenshot #2 
+<img width="619" alt="Screen Shot 2021-12-16 at 3 51 54 PM" src="https://user-images.githubusercontent.com/89927369/146447287-944d57f3-6925-4bcc-9882-1275bd97122c.png">
+
+<img width="648" alt="Screen Shot 2021-12-16 at 3 53 20 PM" src="https://user-images.githubusercontent.com/89927369/146447441-3749edd8-e342-4863-87b3-76cf42af2dac.png">
+          - Screenshot #2 Email is required and must be validated
+        Screenshot #3 
 
   - [x] \(mm/dd/yyyy of completion) User will be able to login to their account (given they enter the correct credentials)
     -  List of Evidence of Feature Completion
@@ -111,280 +119,235 @@
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
+
 __________________________________________________________________________________________________________________________________________
 - Milestone 2
-  - [x] \(11/09/2021) User will be able to register a new account
+
+  - [x] \(11/09/2021) User with an admin role or shop owner role will be able to add products to inventory
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to login to their account (given they enter the correct credentials)
+  - [x] \(mm/dd/yyyy of completion) Any user will be able to see products with visibility = true on the Shop page
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to logout
+  - [x] \(mm/dd/yyyy of completion) Admin/Shop owner will be able to see products with any visibility
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic security rules implemented
+  - [x] \(mm/dd/yyyy of completion) Admin/Shop owner will be able to edit any product
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic Roles implemented
+  - [x] \(mm/dd/yyyy of completion) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Site should have basic styles/theme applied; everything should be styled
+  - [x] \(mm/dd/yyyy of completion) User must be logged in for any Cart related activity below
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Any output messages/errors should be “user friendly”
+  - [x] \(mm/dd/yyyy of completion) User will be able to add items to Cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their profile
+  - [x] \(mm/dd/yyyy of completion) User will be able to see their cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to edit their profile
+  - [x] \(mm/dd/yyyy of completion) User will be able to change quantity of items in their cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
+      
+  - [x] \(mm/dd/yyyy of completion) User will be able to remove a single item from their cart vai button click
+    -  List of Evidence of Feature Completion
+      - Status: Completed
+      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
+      - Pull Requests
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
+      - Screenshots
+        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
+          - Screenshot #1 description explaining what you're trying to show
+
+  - [x] \(mm/dd/yyyy of completion) User will be able to clear their entire cart via a button click
+    -  List of Evidence of Feature Completion
+      - Status: Completed
+      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
+      - Pull Requests
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
+      - Screenshots
+        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
+          - Screenshot #1 description explaining what you're trying to show
+
 __________________________________________________________________________________________________________________________________________       
 - Milestone 3
-  - [x] \(11/09/2021) User will be able to register a new account
+
+  - [x] \(11/09/2021) User will be able to purchase items in their Cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to login to their account (given they enter the correct credentials)
+  - [x] \(mm/dd/yyyy of completion) Order Confirmation Page
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to logout
+  - [x] \(mm/dd/yyyy of completion) User will be able to see their Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic security rules implemented
+  - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic Roles implemented
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) Site should have basic styles/theme applied; everything should be styled
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) Any output messages/errors should be “user friendly”
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their profile
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) User will be able to edit their profile
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
 __________________________________________________________________________________________________________________________________________
 - Milestone 4
-  - [x] \(11/09/2021) User will be able to register a new account
+
+  - [x] \(11/09/2021) User can set their profile to be public or private (will need another column in Users table)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to login to their account (given they enter the correct credentials)
+  - [x] \(mm/dd/yyyy of completion) User will be able to rate a product they purchased
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to logout
+  - [x] \(mm/dd/yyyy of completion) User’s Purchase History Changes
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic security rules implemented
+  - [x] \(mm/dd/yyyy of completion) Store Owner Purchase History Changes
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic Roles implemented
+  - [x] \(mm/dd/yyyy of completion) Add pagination to Shop Page (and any other product lists not yet mentioned)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Site should have basic styles/theme applied; everything should be styled
+  - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all products out of stock
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Any output messages/errors should be “user friendly”
+  - [x] \(mm/dd/yyyy of completion) User can sort products by average rating on the Shop Page
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+        - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their profile
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
-  - [x] \(mm/dd/yyyy of completion) User will be able to edit their profile
-    -  List of Evidence of Feature Completion
-      - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
-      - Pull Requests
-        - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
-      - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
-
 
 ### Intructions
 #### Don't delete this
