@@ -260,7 +260,7 @@ ________________________________________________________________________________
   - [x] \(11/09/2021) User will be able to purchase items in their Cart
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/order.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
@@ -270,11 +270,11 @@ ________________________________________________________________________________
         - Screenshot #2 <img width="1143" alt="Screen Shot 2021-12-21 at 4 33 32 PM" src="https://user-images.githubusercontent.com/89927369/147000437-84f98d32-e4c0-406f-be77-9a634791af69.png">
           - Screenshot #2 Asking for user Info
       - Screenshots
-        - Screenshot #3 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #3 description explaining what you're trying to show
+        - Screenshot #3 <img width="1142" alt="Screen Shot 2021-12-21 at 5 48 42 PM" src="https://user-images.githubusercontent.com/89927369/147007559-99ff56d2-565e-4d4d-9d52-7a18127a9bc1.png">
+          - Screenshot #3 When you click purchase you will get and Order id #
       - Screenshots
-        - Screenshot #4 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #4 description explaining what you're trying to show
+        - Screenshot #4 <img width="1268" alt="Screen Shot 2021-12-21 at 5 52 08 PM" src="https://user-images.githubusercontent.com/89927369/147007869-a13da704-ce2d-42d2-9a3d-134bb08c6a2f.png">
+          - Screenshot #4 If items in cart not available
       - Screenshots
         - Screenshot #5 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #5 description explaining what you're trying to show
@@ -283,7 +283,7 @@ ________________________________________________________________________________
   - [x] \(mm/dd/yyyy of completion) Order Confirmation Page
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/order.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
@@ -307,7 +307,7 @@ ________________________________________________________________________________
   - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
+      - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
@@ -374,8 +374,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="938" alt="Screen Shot 2021-12-21 at 5 56 40 PM" src="https://user-images.githubusercontent.com/89927369/147008255-5bc68667-2cce-4b0b-b009-77e9c9291cba.png">
+          - Screenshot #1 Store Owner able to see products that are our of stock
 
   - [x] \(mm/dd/yyyy of completion) User can sort products by average rating on the Shop Page
     -  List of Evidence of Feature Completion
