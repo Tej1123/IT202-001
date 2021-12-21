@@ -38,7 +38,9 @@
 
 <img width="648" alt="Screen Shot 2021-12-16 at 3 53 20 PM" src="https://user-images.githubusercontent.com/89927369/146447441-3749edd8-e342-4863-87b3-76cf42af2dac.png">
           - Screenshot #2 Email is required and must be validated
-        Screenshot #3 
+      - Screenshots
+        - Screenshot #3 <img width="142" alt="Screen Shot 2021-12-17 at 4 00 28 PM" src="https://user-images.githubusercontent.com/89927369/146607426-f8d7acf9-03f6-4092-8f09-37d122a83e50.png">
+          - Screenshot #3 password (60 characters)
         
 
   - [x] \(11/09/2021) User will be able to login to their account (given they enter the correct credentials)
@@ -64,8 +66,11 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="928" alt="Screen Shot 2021-12-21 at 11 39 59 AM" src="https://user-images.githubusercontent.com/89927369/146966377-99db4bc9-be45-4356-a4c5-2faa1b1e335c.png">
+          - Screenshot #1 option to logout 
+      - Screenshots
+        - Screenshot #1 <img width="1099" alt="Screen Shot 2021-12-21 at 11 43 02 AM" src="https://user-images.githubusercontent.com/89927369/146966809-b1801d3d-ac54-416b-a760-c9577c7f4604.png">
+          - Screenshot #1 User should see a message that they’ve successfully logged out
 
   - [x] \(11/09/2021) Basic security rules implemented
     -  List of Evidence of Feature Completion
@@ -74,8 +79,8 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="458" alt="Screen Shot 2021-12-21 at 12 04 40 PM" src="https://user-images.githubusercontent.com/89927369/146969981-3fba158d-f113-4a5c-afe1-4d39e9ac9156.png">
+          - Screenshot #1 shows the code where the basic security rules are implemented
 
   - [x] \(11/09/2021) Basic Roles implemented
     -  List of Evidence of Feature Completion
@@ -83,6 +88,12 @@
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
+      - Screenshots
+        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
+          - Screenshot #1 description explaining what you're trying to show
+      - Screenshots
+        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
+          - Screenshot #1 description explaining what you're trying to show
       - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
