@@ -39,18 +39,25 @@
 <img width="648" alt="Screen Shot 2021-12-16 at 3 53 20 PM" src="https://user-images.githubusercontent.com/89927369/146447441-3749edd8-e342-4863-87b3-76cf42af2dac.png">
           - Screenshot #2 Email is required and must be validated
         Screenshot #3 
+        
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to login to their account (given they enter the correct credentials)
+  - [x] \(11/09/2021) User will be able to login to their account (given they enter the correct credentials)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="948" alt="Screen Shot 2021-12-21 at 1 59 45 PM" src="https://user-images.githubusercontent.com/89927369/146983852-b06ecd6b-8304-4269-87e6-312e59b9c655.png">
+          - Screenshot #1 User can login with email or username
+      - Screenshots
+        - Screenshot #2 <img width="1030" alt="Screen Shot 2021-12-21 at 2 01 01 PM" src="https://user-images.githubusercontent.com/89927369/146983978-8b444bdf-3a3a-4632-bafa-50d9d97fb6f4.png">
+          - Screenshot #2 Password is required
+      - Screenshots
+        - Screenshot #3 <img width="1426" alt="Screen Shot 2021-12-21 at 12 45 02 PM" src="https://user-images.githubusercontent.com/89927369/146975090-c62e86c0-d65c-4a6f-b2f1-825e5d386c0d.png">
+          - Screenshot #3 will be directed to a landing page upon login
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to logout
+  - [x] \(11/09/2021) User will be able to logout
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
@@ -60,7 +67,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic security rules implemented
+  - [x] \(11/09/2021) Basic security rules implemented
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -70,7 +77,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Basic Roles implemented
+  - [x] \(11/09/2021) Basic Roles implemented
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -80,7 +87,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Site should have basic styles/theme applied; everything should be styled
+  - [x] \(11/09/2021) Site should have basic styles/theme applied; everything should be styled
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
@@ -90,7 +97,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Any output messages/errors should be “user friendly”
+  - [x] \(11/09/2021) Any output messages/errors should be “user friendly”
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -100,7 +107,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their profile
+  - [x] \(11/09/2021) User will be able to see their profile
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -110,7 +117,7 @@
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to edit their profile
+  - [x] \(11/09/2021) User will be able to edit their profile
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
