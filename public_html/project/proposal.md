@@ -89,14 +89,14 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="916" alt="Screen Shot 2021-12-21 at 2 55 36 PM" src="https://user-images.githubusercontent.com/89927369/146990701-b3f6925a-e149-4c3e-a844-048e7983a7ff.png">
+          - Screenshot #1 shows the role buttons on the main page of the website
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1039" alt="Screen Shot 2021-12-21 at 2 58 24 PM" src="https://user-images.githubusercontent.com/89927369/146990708-de45c975-4fc0-4fa0-8960-0b0c6bbdfe59.png">
+          - Screenshot #1 shows the create role page
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1003" alt="Screen Shot 2021-12-21 at 3 01 21 PM" src="https://user-images.githubusercontent.com/89927369/146990712-cc89dfeb-9960-486c-a954-8ce12ff32f73.png">
+          - Screenshot #1 shows the assign roles page
 
   - [x] \(11/09/2021) Site should have basic styles/theme applied; everything should be styled
     -  List of Evidence of Feature Completion
