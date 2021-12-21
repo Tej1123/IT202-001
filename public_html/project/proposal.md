@@ -284,8 +284,12 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
+        - Screenshot #1 <img width="592" alt="Screen Shot 2021-12-21 at 12 57 19 PM" src="https://user-images.githubusercontent.com/89927369/146976664-308c1568-f05b-4fc2-b4b4-0f7f320a3b82.png">
+          - Screenshot #1 User will be able to see their Purchase History
+      - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
+
 
   - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all Purchase History
     -  List of Evidence of Feature Completion
@@ -307,8 +311,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1016" alt="Screen Shot 2021-12-21 at 3 07 32 PM" src="https://user-images.githubusercontent.com/89927369/146991346-d5691898-cda7-4e7d-8a2d-80c03c2d0090.png">
+          - Screenshot #1 User choice to set there profile public or private
 
   - [x] \(mm/dd/yyyy of completion) User will be able to rate a product they purchased
     -  List of Evidence of Feature Completion
@@ -317,8 +321,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="592" alt="Screen Shot 2021-12-21 at 12 57 19 PM" src="https://user-images.githubusercontent.com/89927369/146976664-308c1568-f05b-4fc2-b4b4-0f7f320a3b82.png">
+          - Screenshot #1 Rate products
 
   - [x] \(mm/dd/yyyy of completion) User’s Purchase History Changes
     -  List of Evidence of Feature Completion
