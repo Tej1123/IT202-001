@@ -51,12 +51,8 @@ require(__DIR__ . "/../../partials/nav.php");
 <div class="register-page">
 <form onsubmit="return validate(this)" method="POST">
     <div>
-        <label for="email">Email</label>
+        <label for="email">Email or Username</label>
         <input type="email" name="email" required />
-    </div>
-    <div>
-        <label for="username">Username</label>
-        <input type="username" name="username" required/>
     </div>
     <div>
         <label for="pw">Password</label>
@@ -113,10 +109,8 @@ if (isset($_POST["email"]) && isset($_POST["password"]) && isset($_POST["confirm
         echo "Password too short";
         $hasError = true;
     }
-    if (
-        strlen($password) > 0 && $password !== $confirm
-    ) {
-        echo 'Password must match';
+    if (strlen($password) > 0 && $password !== $confirm) {
+        echo '<script>alert("Password must match")</script>';
         $hasError = true;
     }
     if (!$hasError) {

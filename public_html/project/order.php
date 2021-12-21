@@ -4,7 +4,7 @@ require(__DIR__ . "/../../partials/nav.php");
 ?>
 <?php 
 if (is_logged_in()) {
-    echo '<h1>'."Welcome, " . get_user_email().'</h1>';
+    echo '<h1>'."Payment method" .'</h1>';
 
 } else {
     echo '<script>alert("You are not logged in")</script>';

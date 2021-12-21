@@ -48,15 +48,16 @@ function has_role($role) {
 }
 function get_username() {
     if (is_logged_in()) { //we need to check for login first because "user" key may not exist
-        return se($_SESSION["user"], "username", "", false);
+        return se($_SESSION["user"], "username","", false);
     }
     return "";
 }
 function get_user_email() {
     if (is_logged_in()) { //we need to check for login first because "user" key may not exist
         return se($_SESSION["user"], "email", "", false);
+       // return "";
     }
-    return "";
+    //return "";
 }
 function get_user_id() {
     if (is_logged_in()) { //we need to check for login first because "user" key may not exist
@@ -64,5 +65,10 @@ function get_user_id() {
     }
     return false;
 }
+?>
+<style>
+    body{
+        text-align: center;
+    }
+</style>
 
-//TODO 4: Flash Message Helpers

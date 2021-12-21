@@ -32,6 +32,12 @@ require_once(__DIR__ . "/../lib/functions.php");
         background-size: cover;
 
     } 
+    nav ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    
     /*nav{
         list-style-type: none;
         margin: 0;
@@ -39,36 +45,44 @@ require_once(__DIR__ . "/../lib/functions.php");
         background-color: black;
 
     }*/
-    li{
-        position: relative;
-        height: auto;
-        background-color: darkgray;
-        width: 100%;
+    ul {
         list-style-type: none;
+        margin: 0;
+        padding: 0;
+        padding-left: 50%;
+        overflow: hidden;
+        background-color: #333333;
     }
-    li a{
-    
-        list-style-type: none;
+
+    li {
+        float: left;
+    }
+
+    li a {
         display: block;
         color: white;
-        font-size: large;
         text-align: center;
-        padding: 15px 15px;
+        padding: 16px;
         text-decoration: none;
     }
     
 </style>
 <nav>
-    <ul>
+    <ul id="display">
         <?php if (is_logged_in()) : ?>
-            <li><a href="home.php">Home</a></li>
+            <li class='home'><a href="home.php">Home</a></li>
         <?php endif; ?>
         <?php if (!is_logged_in()) : ?>
+            
             <li class='login'><a href="login.php">Login</a></li>
             <li class='register'><a href="register.php">Register</a></li>
         <?php endif; ?>
         <?php if (is_logged_in()) : ?>
-            <li><a href="logout.php">Logout</a></li>
+            <li class ="shop"><a href="cart.php">Shop</a>
+            <li class="profile"><a href="profile.php">Profile</a>
+            <li class="order"><a href="order.php">Your order</a></li>
+            <li class="logout"><a href="logout.php">Logout</a></li>
+            
         <?php endif; ?>
     </ul>
 </nav>

@@ -51,7 +51,7 @@ require(__DIR__ . "/../../partials/nav.php");
 <div class = "login-page">
 <form onsubmit="return validate(this)" method="POST">
     <div>
-        <label for="email">Email</label>
+        <label for="email">Email or Username</label>
         <input type="email" name="email" required />
     </div>
     <div>
@@ -73,19 +73,20 @@ require(__DIR__ . "/../../partials/nav.php");
 //TODO 2: add PHP Code
 if (isset($_POST["email"]) && isset($_POST["password"])) {
     $email = se($_POST, "email", "", false);
+    $username = se($_POST,"username","",false);
     $password = se($_POST, "password", "", false);
 
     //TODO 3
     $hasError = false;
     if (empty($email)) {
-        echo "Email must not be empty";
+        echo "Email or username must not be empty";
         $hasError = true;
     }
     //sanitize
     $email = sanitize_email($email);
     //validate
     if (!is_valid_email($email)) {
-        echo "Invalid email address";
+        echo "Invalid email address or username";
         $hasError = true;
     }
     if (empty($password)) {
