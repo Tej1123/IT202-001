@@ -331,8 +331,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1263" alt="Screen Shot 2021-12-21 at 3 46 02 PM" src="https://user-images.githubusercontent.com/89927369/146995390-b477afc6-a5aa-4158-8bef-2e7beb082c56.png">
+          - Screenshot #1 User able to view there changes in purchase history
 
   - [x] \(mm/dd/yyyy of completion) Store Owner Purchase History Changes
     -  List of Evidence of Feature Completion
@@ -341,8 +341,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1255" alt="Screen Shot 2021-12-21 at 3 54 11 PM" src="https://user-images.githubusercontent.com/89927369/146996305-701e041d-2f68-41ec-9e48-46ab955d5186.png">
+          - Screenshot #1 Owner purchse history changes
 
   - [x] \(mm/dd/yyyy of completion) Add pagination to Shop Page (and any other product lists not yet mentioned)
     -  List of Evidence of Feature Completion
