@@ -105,8 +105,8 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1426" alt="Screen Shot 2021-12-21 at 12 45 02 PM" src="https://user-images.githubusercontent.com/89927369/146975090-c62e86c0-d65c-4a6f-b2f1-825e5d386c0d.png">
+          - Screenshot #1 Theme and style applied on the site
 
   - [x] \(11/09/2021) Any output messages/errors should be “user friendly”
     -  List of Evidence of Feature Completion
@@ -115,8 +115,11 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1030" alt="Screen Shot 2021-12-21 at 2 01 01 PM" src="https://user-images.githubusercontent.com/89927369/146983978-8b444bdf-3a3a-4632-bafa-50d9d97fb6f4.png">
+          - Screenshot #1 shows just one of the flash messages that is implemented in the site
+      - Screenshots
+        - Screenshot #1 <img width="1099" alt="Screen Shot 2021-12-21 at 11 43 02 AM" src="https://user-images.githubusercontent.com/89927369/146966809-b1801d3d-ac54-416b-a760-c9577c7f4604.png">
+          - Screenshot #1 Another example of flash message implemented in the site
 
   - [x] \(11/09/2021) User will be able to see their profile
     -  List of Evidence of Feature Completion
@@ -125,8 +128,8 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1072" alt="Screen Shot 2021-12-21 at 12 47 47 PM" src="https://user-images.githubusercontent.com/89927369/146975440-2e3c3638-1981-442d-a965-0bdb9901a7c4.png">
+          - Screenshot #1 shows the user being able to see their profile
 
   - [x] \(11/09/2021) User will be able to edit their profile
     -  List of Evidence of Feature Completion
@@ -135,8 +138,8 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1034" alt="Screen Shot 2021-12-21 at 12 49 22 PM" src="https://user-images.githubusercontent.com/89927369/146975620-7a422bfd-05b0-4f18-b9b7-853be10369dc.png">
+          - Screenshot #1 shows the page where the user edits their profile
 
 __________________________________________________________________________________________________________________________________________
 - Milestone 2
