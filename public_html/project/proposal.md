@@ -264,6 +264,12 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
+        - Screenshot #1 <img width="1308" alt="Screen Shot 2021-12-21 at 4 24 32 PM" src="https://user-images.githubusercontent.com/89927369/146999598-acba8afc-deae-4b28-9826-02af72b32967.png">
+          - Screenshot #1 able to purchase items
+      - Screenshots
+        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
+          - Screenshot #1 description explaining what you're trying to show
+      - Screenshots
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
@@ -274,8 +280,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1113" alt="Screen Shot 2021-12-21 at 4 11 08 PM" src="https://user-images.githubusercontent.com/89927369/146998212-8c15cffb-bbc8-4e0a-861f-f806aab0f726.png">
+          - Screenshot #1 Order Confirmation and Thank you note on the bottom
 
   - [x] \(mm/dd/yyyy of completion) User will be able to see their Purchase History
     -  List of Evidence of Feature Completion
