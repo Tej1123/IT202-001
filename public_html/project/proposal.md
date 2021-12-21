@@ -144,7 +144,7 @@
 __________________________________________________________________________________________________________________________________________
 - Milestone 2
 
-  - [x] \(11/09/2021) User with an admin role or shop owner role will be able to add products to inventory
+  - [x] \(11/25/2021) User with an admin role or shop owner role will be able to add products to inventory
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
@@ -154,7 +154,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Any user will be able to see products with visibility = true on the Shop page
+  - [x] \(11/25/2021) Any user will be able to see products with visibility = true on the Shop page
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
@@ -164,7 +164,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Admin/Shop owner will be able to see products with any visibility
+  - [x] \(11/25/2021) Admin/Shop owner will be able to see products with any visibility
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
@@ -174,7 +174,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Admin/Shop owner will be able to edit any product
+  - [x] \(11/26/2021) Admin/Shop owner will be able to edit any product
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -184,7 +184,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
+  - [x] \(11/26/2021) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -194,7 +194,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User must be logged in for any Cart related activity below
+  - [x] \(11/26/2021) User must be logged in for any Cart related activity below
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
@@ -204,7 +204,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to add items to Cart
+  - [x] \(11/26/2021) User will be able to add items to Cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -214,7 +214,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their cart
+  - [x] \(11/26/2021) User will be able to see their cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -224,7 +224,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to change quantity of items in their cart
+  - [x] \(11/27/2021) User will be able to change quantity of items in their cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -234,7 +234,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
       
-  - [x] \(mm/dd/yyyy of completion) User will be able to remove a single item from their cart vai button click
+  - [x] \(11/28/2021) User will be able to remove a single item from their cart vai button click
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -244,7 +244,7 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to clear their entire cart via a button click
+  - [x] \(11/28/2021) User will be able to clear their entire cart via a button click
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -257,7 +257,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________       
 - Milestone 3
 
-  - [x] \(11/09/2021) User will be able to purchase items in their Cart
+  - [x] \(12/07/2021) User will be able to purchase items in their Cart
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/order.php
@@ -275,12 +275,8 @@ ________________________________________________________________________________
       - Screenshots
         - Screenshot #4 <img width="1268" alt="Screen Shot 2021-12-21 at 5 52 08 PM" src="https://user-images.githubusercontent.com/89927369/147007869-a13da704-ce2d-42d2-9a3d-134bb08c6a2f.png">
           - Screenshot #4 If items in cart not available
-      - Screenshots
-        - Screenshot #5 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #5 description explaining what you're trying to show
-
-
-  - [x] \(mm/dd/yyyy of completion) Order Confirmation Page
+     
+  - [x] \(12/07/2021) Order Confirmation Page
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/order.php
@@ -290,7 +286,7 @@ ________________________________________________________________________________
         - Screenshot #1 <img width="1113" alt="Screen Shot 2021-12-21 at 4 11 08 PM" src="https://user-images.githubusercontent.com/89927369/146998212-8c15cffb-bbc8-4e0a-861f-f806aab0f726.png">
           - Screenshot #1 Order Confirmation and Thank you note on the bottom
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to see their Purchase History
+  - [x] \(12/07/2021) User will be able to see their Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
@@ -300,11 +296,11 @@ ________________________________________________________________________________
         - Screenshot #1 <img width="592" alt="Screen Shot 2021-12-21 at 12 57 19 PM" src="https://user-images.githubusercontent.com/89927369/146976664-308c1568-f05b-4fc2-b4b4-0f7f320a3b82.png">
           - Screenshot #1 User will be able to see their Purchase History
       - Screenshots
-        - Screenshot #1 <img width="1290" alt="Screen Shot 2021-12-21 at 3 33 07 PM" src="https://user-images.githubusercontent.com/89927369/146993956-24df1291-604d-4b08-9412-05b4ba7e0ffb.png">
-          - Screenshot #1 Users will be able to see upto last 10 purchase items
+        - Screenshot #2 <img width="1290" alt="Screen Shot 2021-12-21 at 3 33 07 PM" src="https://user-images.githubusercontent.com/89927369/146993956-24df1291-604d-4b08-9412-05b4ba7e0ffb.png">
+          - Screenshot #2 Users will be able to see upto last 10 purchase items
 
 
-  - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all Purchase History
+  - [x] \(12/07/2021) Store Owner will be able to see all Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
@@ -317,47 +313,47 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________
 - Milestone 4
 
-  - [x] \(11/09/2021) User can set their profile to be public or private (will need another column in Users table)
+  - [x] \(12/15/2021) User can set their profile to be public or private (will need another column in Users table)
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/register.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/edit.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 <img width="1016" alt="Screen Shot 2021-12-21 at 3 07 32 PM" src="https://user-images.githubusercontent.com/89927369/146991346-d5691898-cda7-4e7d-8a2d-80c03c2d0090.png">
           - Screenshot #1 User choice to set there profile public or private
 
-  - [x] \(mm/dd/yyyy of completion) User will be able to rate a product they purchased
+  - [x] \(12/15/2021) User will be able to rate a product they purchased
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/login.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/cart.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 <img width="592" alt="Screen Shot 2021-12-21 at 12 57 19 PM" src="https://user-images.githubusercontent.com/89927369/146976664-308c1568-f05b-4fc2-b4b4-0f7f320a3b82.png">
           - Screenshot #1 Rate products
 
-  - [x] \(mm/dd/yyyy of completion) User’s Purchase History Changes
+  - [x] \(12/15/2021) User’s Purchase History Changes
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/cart.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 <img width="1263" alt="Screen Shot 2021-12-21 at 3 46 02 PM" src="https://user-images.githubusercontent.com/89927369/146995390-b477afc6-a5aa-4158-8bef-2e7beb082c56.png">
           - Screenshot #1 User able to view there changes in purchase history
 
-  - [x] \(mm/dd/yyyy of completion) Store Owner Purchase History Changes
+  - [x] \(12/15/2021) Store Owner Purchase History Changes
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
+      - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 <img width="1255" alt="Screen Shot 2021-12-21 at 3 54 11 PM" src="https://user-images.githubusercontent.com/89927369/146996305-701e041d-2f68-41ec-9e48-46ab955d5186.png">
           - Screenshot #1 Owner purchse history changes
 
-  - [x] \(mm/dd/yyyy of completion) Add pagination to Shop Page (and any other product lists not yet mentioned)
+  - [ ] \(12/15/2021) Add pagination to Shop Page (and any other product lists not yet mentioned)
     -  List of Evidence of Feature Completion
       - Status: Completed
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
@@ -367,25 +363,25 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all products out of stock
+  - [x] \(12/15/2021) Store Owner will be able to see all products out of stock
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/cart.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
         - Screenshot #1 <img width="938" alt="Screen Shot 2021-12-21 at 5 56 40 PM" src="https://user-images.githubusercontent.com/89927369/147008255-5bc68667-2cce-4b0b-b009-77e9c9291cba.png">
           - Screenshot #1 Store Owner able to see products that are our of stock
 
-  - [x] \(mm/dd/yyyy of completion) User can sort products by average rating on the Shop Page
+  - [x] \(12/15/2021) User can sort products by average rating on the Shop Page
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
+      - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="960" alt="Screen Shot 2021-12-21 at 6 02 50 PM" src="https://user-images.githubusercontent.com/89927369/147008737-14735ccb-d563-4f12-8b46-b8085e43f302.png">
+          - Screenshot #1 User able to sort product by average rating
 
 ### Intructions
 #### Don't delete this
