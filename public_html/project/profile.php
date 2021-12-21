@@ -187,6 +187,7 @@ session_unset();
         <li  id = "logout" class="rate"><a href="logout.php">Logout</a></li>
         
 
+        
     </ul>
 </nav>
 <h1>Profile</h1>

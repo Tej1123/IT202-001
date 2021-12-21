@@ -82,6 +82,7 @@ if (isset($_POST["email"]) && isset($_POST["password"])) {
         echo "Email or username must not be empty";
         $hasError = true;
     }
+    
     //sanitize
     $email = sanitize_email($email);
     //validate

@@ -82,7 +82,6 @@ require_once(__DIR__ . "/../lib/functions.php");
             <li class="profile"><a href="profile.php">Profile</a>
             <li class="order"><a href="order.php">Your order</a></li>
             <li class="logout"><a href="logout.php">Logout</a></li>
-            
         <?php endif; ?>
     </ul>
 </nav>
