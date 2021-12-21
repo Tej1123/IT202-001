@@ -280,15 +280,15 @@ ________________________________________________________________________________
   - [x] \(mm/dd/yyyy of completion) User will be able to see their Purchase History
     -  List of Evidence of Feature Completion
       - Status: Completed
-      - Direct Link: https://tp342-prod.herokuapp.com/project/logout.php
+      - Direct Link: https://tp342-prod.herokuapp.com/project/purchase.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
         - Screenshot #1 <img width="592" alt="Screen Shot 2021-12-21 at 12 57 19 PM" src="https://user-images.githubusercontent.com/89927369/146976664-308c1568-f05b-4fc2-b4b4-0f7f320a3b82.png">
           - Screenshot #1 User will be able to see their Purchase History
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1290" alt="Screen Shot 2021-12-21 at 3 33 07 PM" src="https://user-images.githubusercontent.com/89927369/146993956-24df1291-604d-4b08-9412-05b4ba7e0ffb.png">
+          - Screenshot #1 Users will be able to see upto last 10 purchase items
 
 
   - [x] \(mm/dd/yyyy of completion) Store Owner will be able to see all Purchase History
@@ -298,8 +298,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/56
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1275" alt="Screen Shot 2021-12-21 at 3 40 19 PM" src="https://user-images.githubusercontent.com/89927369/146994737-faeac31a-fc63-498c-a6f1-7514503a7fc0.png">
+          - Screenshot #1 Store ower able to see all purchase history and able to select dates
 
 __________________________________________________________________________________________________________________________________________
 - Milestone 4
