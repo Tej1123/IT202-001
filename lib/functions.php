@@ -14,6 +14,7 @@ function se($v, $k = null, $default = "", $isEcho = true) {
         if (is_array($returnValue) || is_object($returnValue)) {
             $returnValue = $default;
         }
+        
     }
     if (!isset($returnValue)) {
         $returnValue = $default;
