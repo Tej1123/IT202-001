@@ -30,18 +30,18 @@
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/53
       - Screenshots
-        - Screenshot #1 
-<img width="952" alt="Screen Shot 2021-12-16 at 3 51 06 PM" src="https://user-images.githubusercontent.com/89927369/146447204-1558b929-0021-4cd1-8beb-aa4ce70cb500.png">
-          - Screenshot #1 Username, email, password, confirm password
-        - Screenshot #2 
-<img width="619" alt="Screen Shot 2021-12-16 at 3 51 54 PM" src="https://user-images.githubusercontent.com/89927369/146447287-944d57f3-6925-4bcc-9882-1275bd97122c.png">
-
-<img width="648" alt="Screen Shot 2021-12-16 at 3 53 20 PM" src="https://user-images.githubusercontent.com/89927369/146447441-3749edd8-e342-4863-87b3-76cf42af2dac.png">
-          - Screenshot #2 Email is required and must be validated
+        - Screenshot #1 <img width="1003" alt="Screen Shot 2021-12-21 at 6 48 07 PM" src="https://user-images.githubusercontent.com/89927369/147011951-e9d94ffa-6ada-4103-a4fb-c5e8f6fe39a9.png">
+          - Screenshot #1 Username, email, password, confirm password and also email require and validated
       - Screenshots
-        - Screenshot #3 <img width="142" alt="Screen Shot 2021-12-17 at 4 00 28 PM" src="https://user-images.githubusercontent.com/89927369/146607426-f8d7acf9-03f6-4092-8f09-37d122a83e50.png">
-          - Screenshot #3 password (60 characters)
-        
+        - Screenshot #2 <img width="1117" alt="Screen Shot 2021-12-21 at 6 49 38 PM" src="https://user-images.githubusercontent.com/89927369/147012070-01f6bda1-ccc2-44a3-8b8d-1db4f1205db0.png">
+          - Screenshot #2 password required and validated
+      - Screenshots
+        - Screenshot #3 <img width="980" alt="Screen Shot 2021-12-21 at 6 50 51 PM" src="https://user-images.githubusercontent.com/89927369/147012154-1e2c4ef9-7214-4698-a3de-c3a5a3d4d7a6.png">
+          - Screenshot #3 confirm password required and validated
+      - Screenshots
+        - Screenshot #4 <img width="142" alt="Screen Shot 2021-12-17 at 4 00 28 PM" src="https://user-images.githubusercontent.com/89927369/146607426-f8d7acf9-03f6-4092-8f09-37d122a83e50.png">
+          - Screenshot #4 password (60 characters)
+
 
   - [x] \(11/09/2021) User will be able to login to their account (given they enter the correct credentials)
     -  List of Evidence of Feature Completion
@@ -151,8 +151,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1016" alt="Screen Shot 2021-12-21 at 6 52 24 PM" src="https://user-images.githubusercontent.com/89927369/147012236-073981b4-54b5-46a3-b52c-ecdfe7101314.png">
+          - Screenshot #1 User able to add new products
 
   - [x] \(11/25/2021) Any user will be able to see products with visibility = true on the Shop page
     -  List of Evidence of Feature Completion
@@ -161,8 +161,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1016" alt="Screen Shot 2021-12-21 at 6 52 24 PM" src="https://user-images.githubusercontent.com/89927369/147012236-073981b4-54b5-46a3-b52c-ecdfe7101314.png">
+          - Screenshot #1 User able to see product that are visible
 
   - [x] \(11/25/2021) Admin/Shop owner will be able to see products with any visibility
     -  List of Evidence of Feature Completion
@@ -171,8 +171,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1278" alt="Screen Shot 2021-12-21 at 6 54 46 PM" src="https://user-images.githubusercontent.com/89927369/147012419-db966488-3b1b-42d3-bade-08098191a78a.png">
+          - Screenshot #1 Admin will see products 
 
   - [x] \(11/26/2021) Admin/Shop owner will be able to edit any product
     -  List of Evidence of Feature Completion
@@ -181,8 +181,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1277" alt="Screen Shot 2021-12-21 at 6 56 23 PM" src="https://user-images.githubusercontent.com/89927369/147012529-553f6f20-1839-4849-9259-e61abb628b0c.png">
+          - Screenshot #1 Admin able to edit product
 
   - [x] \(11/26/2021) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
     -  List of Evidence of Feature Completion
@@ -221,8 +221,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1008" alt="Screen Shot 2021-12-21 at 8 30 54 PM" src="https://user-images.githubusercontent.com/89927369/147019634-718a4dea-cf97-4be6-8912-156e76f5878a.png">
+          - Screenshot #1 User able to access cart
 
   - [x] \(11/27/2021) User will be able to change quantity of items in their cart
     -  List of Evidence of Feature Completion
@@ -231,8 +231,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="963" alt="Screen Shot 2021-12-21 at 8 36 42 PM" src="https://user-images.githubusercontent.com/89927369/147020111-1d7337da-518a-498d-becc-a9f5a762f311.png">
+          - Screenshot #1 option to add items
       
   - [x] \(11/28/2021) User will be able to remove a single item from their cart vai button click
     -  List of Evidence of Feature Completion
@@ -241,8 +241,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="963" alt="Screen Shot 2021-12-21 at 8 36 42 PM" src="https://user-images.githubusercontent.com/89927369/147020111-1d7337da-518a-498d-becc-a9f5a762f311.png">
+          - Screenshot #1 option to remove items
 
   - [x] \(11/28/2021) User will be able to clear their entire cart via a button click
     -  List of Evidence of Feature Completion
@@ -251,8 +251,8 @@ ________________________________________________________________________________
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
       - Screenshots
-        - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
-          - Screenshot #1 description explaining what you're trying to show
+        - Screenshot #1 <img width="1018" alt="Screen Shot 2021-12-21 at 8 38 27 PM" src="https://user-images.githubusercontent.com/89927369/147020266-1bf57a07-a471-4ecd-bb34-c736ac5479e4.png">
+          - Screenshot #1 option to clear cart
 
 __________________________________________________________________________________________________________________________________________       
 - Milestone 3
