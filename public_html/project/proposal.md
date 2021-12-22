@@ -184,9 +184,9 @@ ________________________________________________________________________________
         - Screenshot #1 <img width="1277" alt="Screen Shot 2021-12-21 at 6 56 23 PM" src="https://user-images.githubusercontent.com/89927369/147012529-553f6f20-1839-4849-9259-e61abb628b0c.png">
           - Screenshot #1 Admin able to edit product
 
-  - [x] \(11/26/2021) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
+  - [ ] \(11/26/2021) User will be able to click an item from a list and view a full page with more info about the item (Product Details Page)
     -  List of Evidence of Feature Completion
-      - Status: Completed
+      - Status: Incomplete
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
@@ -194,9 +194,9 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(11/26/2021) User must be logged in for any Cart related activity below
+  - [ ] \(11/26/2021) User must be logged in for any Cart related activity below
     -  List of Evidence of Feature Completion
-      - Status: Completed
+      - Status: Incomplete
       - Direct Link: https://tp342-prod.herokuapp.com/project/home.php
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
@@ -204,9 +204,9 @@ ________________________________________________________________________________
         - Screenshot #1 (paste the image so it uploads to github) (repeat as necessary)
           - Screenshot #1 description explaining what you're trying to show
 
-  - [x] \(11/26/2021) User will be able to add items to Cart
+  - [ ] \(11/26/2021) User will be able to add items to Cart
     -  List of Evidence of Feature Completion
-      - Status: Completed
+      - Status: Incomplete
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/55
@@ -355,7 +355,7 @@ ________________________________________________________________________________
 
   - [ ] \(12/15/2021) Add pagination to Shop Page (and any other product lists not yet mentioned)
     -  List of Evidence of Feature Completion
-      - Status: Completed
+      - Status: Incomplete
       - Direct Link: (Direct link to the file or files in heroku prod for quick testing (even if it's a protected page))
       - Pull Requests
         - PR link #1: https://github.com/Tej1123/IT202-001/pull/57
