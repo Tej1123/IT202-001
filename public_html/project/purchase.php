@@ -142,7 +142,7 @@ table, th, td {
 </style>
 <body>
 
-<h2>Your Order</h2>
+<h2>Recently Purchased Items</h2>
 
 <table style="width:100%">
   <tr>
@@ -166,17 +166,51 @@ table, th, td {
     <td>14</td>
     <td>10</td>
   </tr>
- 
+  <tr>
+    <td>Item 4</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 5</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 6</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 7</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 8</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 9</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Item 10</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
 </table>
 
-
 <div class = "container">
-    <button> <a href="buyitems.php">Purchase items</a></button>  
+<button id ="private" type="Private" value="Private" >ort products by average rating</button> </form> </div><br>
+
 </div>
+<div class = "container2">
+<button id ="private" type="Private" value="Private" >Select a date to view older purchase history</button> </form> </div><br>
 
-<p> Thank you for shopping with us!!</p> 
-
-
+</div>
 
 
 </body>
@@ -206,13 +240,11 @@ table, th, td {
         margin: 0;
         display: inline-block;
         float: right;
-        text-decoration: none;
-        list-style-type: none;
     }
     .container2{
-        width: 2000px;
-        padding: 0 0 0;
-        margin: 200;
+        width: 1500px;
+        padding: 50 0 20px;
+        margin: 0;
         display: inline-block;
         float: right;
     }
@@ -252,10 +284,6 @@ table, th, td {
     .create-page{
         padding-top: 45px;
     }
-    p{
-        padding-top: 350px;
-        font-size: xx-large;
-    }
     .Form{
         padding-bottom: 50%;
         position: relative;
@@ -290,9 +318,7 @@ table, th, td {
         text-transform: uppercase;
         outline: 0;
         padding-bottom: 30px;
-        background: whitesmoke;
-        text-decoration: none;
-        list-style-type: none;
+        background: #333333;
         width: 15%;
         border: 0;
         padding: 12px;

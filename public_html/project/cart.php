@@ -6,9 +6,14 @@
     <ul>
         <li  id = "logout" class="rate"><a href="home.php">Home</a></li>    
         <li class="rate"><a href="#Rate.php">Rate your product</a></li>
-        <li class="rate"><a href="#purchase.php">Purchase history</a></li>
+        <li class="rate"><a href="purchase.php">Purchase history</a></li>
         <li id = "product detail" class="rate"><a href="#">Product detail</a></li>  
+        <li  id = "logout" class="rate"><a href="order.php">Your Order</a></li>
+        <li  id = "logout" class="rate"><a href="#purchase.php">Product stock</a></li>
+       
+        <li  id = "logout" class="rate"><a href="shop.php">Cart</a></li>
         <li  id = "logout" class="rate"><a href="logout.php">Logout</a></li>
+
         
 
     </ul>

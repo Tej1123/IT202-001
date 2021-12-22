@@ -133,56 +133,19 @@
     </ul>
 </nav>
 
-<!DOCTYPE html>
-<html>
-<style>
-table, th, td {
-  border:1px #3333;
-}
-</style>
-<body>
-
-<h2>Your Order</h2>
-
-<table style="width:100%">
-  <tr>
-    <th>Items</th>
-    <th>Qty</th>
-    <th>Price</th>
-  </tr>
-  
-  <tr>
-    <td>Item 1</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Item 2</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>Item 3</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
- 
-</table>
-
-
-<div class = "container">
-    <button> <a href="buyitems.php">Purchase items</a></button>  
-</div>
-
-<p> Thank you for shopping with us!!</p> 
-
-
-
-
-</body>
-</html>
-
-
+    <div class = "create-page">
+    <form onsubmit="" method="POST">
+      
+        <div>
+            <label for="username">Name: </label>
+            <input type="username" name="username" required/>
+        </div>
+        <div>
+            <label for="pw">Discrepetion: </label>
+            <input type="password" id="pw" name="password" required minlength="8" />
+        </div>
+        <button type="submit" value="Login" >Create Role</button> </form> </div>
+       
 
 <style>
 
@@ -200,22 +163,7 @@ table, th, td {
         padding: 0;
         list-style: none;
     }
-    .container{
-        width: 1500px;
-        padding: 50 0 20px;
-        margin: 0;
-        display: inline-block;
-        float: right;
-        text-decoration: none;
-        list-style-type: none;
-    }
-    .container2{
-        width: 2000px;
-        padding: 0 0 0;
-        margin: 200;
-        display: inline-block;
-        float: right;
-    }
+    
     /*nav{
         list-style-type: none;
         margin: 0;
@@ -252,10 +200,6 @@ table, th, td {
     .create-page{
         padding-top: 45px;
     }
-    p{
-        padding-top: 350px;
-        font-size: xx-large;
-    }
     .Form{
         padding-bottom: 50%;
         position: relative;
@@ -290,9 +234,7 @@ table, th, td {
         text-transform: uppercase;
         outline: 0;
         padding-bottom: 30px;
-        background: whitesmoke;
-        text-decoration: none;
-        list-style-type: none;
+        background: #333333;
         width: 15%;
         border: 0;
         padding: 12px;

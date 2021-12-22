@@ -149,6 +149,7 @@
         </div>
         <button type="submit" value="Login" >Save changes</button> </form> </div>
         <button id ="private" type="Private" value="Private" >Make account Private</button> </form> </div>
+        <button id ="private" type="Private" value="Private" >Make account Private</button> </form> </div>
 
 <style>
 
