@@ -205,7 +205,7 @@ table, th, td {
         padding: 50 0 20px;
         margin: 0;
         display: inline-block;
-        float: right;
+        
         text-decoration: none;
         list-style-type: none;
     }
@@ -214,7 +214,7 @@ table, th, td {
         padding: 0 0 0;
         margin: 200;
         display: inline-block;
-        float: right;
+       
     }
     /*nav{
         list-style-type: none;

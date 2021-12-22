@@ -239,14 +239,14 @@ table, th, td {
         padding: 50 0 20px;
         margin: 0;
         display: inline-block;
-        float: right;
+        
     }
     .container2{
         width: 1500px;
         padding: 50 0 20px;
         margin: 0;
         display: inline-block;
-        float: right;
+       
     }
     /*nav{
         list-style-type: none;
