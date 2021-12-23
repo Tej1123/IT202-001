@@ -30,6 +30,7 @@ function getDB(){
     }
     return $db;
 }
+
 $domain = $_SERVER["HTTP_HOST"];
 if (strpos($domain, ":")) {
     $domain = explode(":", $domain)[0];

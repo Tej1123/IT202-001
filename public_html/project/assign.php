@@ -180,7 +180,6 @@
     .assign-page{
         padding-top: 45px;
     }
-
     li {
         float: left;
     }

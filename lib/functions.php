@@ -15,6 +15,7 @@ function se($v, $k = null, $default = "", $isEcho = true) {
             $returnValue = $default;
         }
     }
+    
     if (!isset($returnValue)) {
         $returnValue = $default;
     }

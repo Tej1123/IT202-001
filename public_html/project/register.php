@@ -44,6 +44,8 @@ require(__DIR__ . "/../../partials/nav.php");
         color: black;
         font-size: 20px;
     }
+
+    
     button:hover{
         background: red;
     }

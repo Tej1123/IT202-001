@@ -33,6 +33,7 @@ require(__DIR__ . "/../../partials/nav.php");
         text-align: right;
         color: white;
     }
+    
     button{
         font-family:Georgia, 'Times New Roman', Times, serif;
         text-transform: uppercase;
