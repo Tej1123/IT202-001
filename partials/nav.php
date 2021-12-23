@@ -7,7 +7,6 @@ if (strpos($domain, ":")) {
 }
 $localWorks = true; //some people have issues with localhost for the cookie params
 //if you're one of those people make this false
-
 //this is an extra condition added to "resolve" the localhost issue for the session cookie
 if (($localWorks && $domain == "localhost") || $domain != "localhost") {
     session_set_cookie_params([
